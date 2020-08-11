@@ -24,6 +24,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to complete Assignment without writhing on your own- Get it Done](https://www.youtube.com/watch?v=nXrUremaqQc)
+- [How to make an E-Commerce website using WordPress (Part 1)](https://www.youtube.com/watch?v=_v78O2PMdjQ)
+- [Free Google Play Credits Working method 2019](https://www.youtube.com/watch?v=uKErHAsD8Jk)
+- [Google Home Mini Setup and Review in India](https://www.youtube.com/watch?v=IDV1VP0A6PA)
+- [Best camera apps for Android 2018](https://www.youtube.com/watch?v=Bxm-k7ftYT4)
 <!-- YOUTUBE:END -->
 
 ---
