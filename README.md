@@ -1,7 +1,7 @@
 ### Hi there, I'm Parmeet Singh 👋
 
 ## I'm a Student, Developer, and Entrepreneur!
-- 🔭 I’m currently working on a [Automated Assignment Writer] [ask]!
+- 🔭 I’m currently working on a [Automated Assignment Writer]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -75,4 +75,4 @@
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
-[ask]: http://askstudio1.pythonanywhere.com
+[Automated Assignment Writer]: http://askstudio1.pythonanywhere.com
