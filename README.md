@@ -1,7 +1,7 @@
 ### Hi there, I'm Parmeet Singh 👋
 
 ## I'm a Student, Developer, and Entrepreneur!
-- 🔭 I’m currently working on a [VS Code Course]!
+- 🔭 I’m currently working on a [Automated Assignment Writer]! [http://askstudio1.pythonanywhere.com/]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
