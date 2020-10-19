@@ -51,4 +51,4 @@
 [youtube]: https://www.youtube.com/geekypajis
 [instagram]: https://www.instagram.com/parmeet21_
 [linkedin]: https://www.linkedin.com/in/parmeet-singh-3614a7135
-[Automated Assignment Writer]: http://askstudio1.pythonanywhere.com
+[Automated Assignment Writer]: http://askstudio2.pythonanywhere.com
