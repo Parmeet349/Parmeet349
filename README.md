@@ -46,9 +46,9 @@
 
 <img align="left" alt="Parmeet's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Parmeet349&show_icons=true&hide_border=true" />
 
-[website]: http://www.geekypajis.com
+[website]: http://www.geekypajis.blogspot.com
 [twitter]: https://twitter.com/Parmeet349
 [youtube]: https://www.youtube.com/geekypajis
 [instagram]: https://www.instagram.com/parmeet21_
 [linkedin]: https://www.linkedin.com/in/parmeet-singh-3614a7135
-[Automated Assignment Writer]: http://askstudio2.pythonanywhere.com
+[Automated Assignment Writer]: http://askstudio3.pythonanywhere.com
