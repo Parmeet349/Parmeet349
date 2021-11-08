@@ -35,7 +35,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Tambola Number Caller (Bingo/Housie)](http://techwaria.blogspot.com/2020/04/tambola-number-caller-bingohousie.html)
+- [Tambola Number Caller &lpar;Bingo/Housie&rpar;](http://techwaria.blogspot.com/2020/04/tambola-number-caller-bingohousie.html)
 - [How to run YouTube in background in Android and iOS?](http://techwaria.blogspot.com/2018/02/how-to-run-youtube-in-background-in.html)
 - [Top 5 Android Games upto 2017!!!!!!](http://techwaria.blogspot.com/2017/12/top-5-android-games-upto-2017.html)
 - [Android O!](http://techwaria.blogspot.com/2017/11/android-o.html)
