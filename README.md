@@ -50,5 +50,5 @@
 [twitter]: https://twitter.com/Parmeet349
 [youtube]: https://www.youtube.com/geekypajis
 [instagram]: https://www.instagram.com/banga.parmeet
-[linkedin]: https://www.linkedin.com/in/parmeet-singh-3614a7135
+[linkedin]: https://www.linkedin.com/in/bangaparmeet
 [Automated Assignment Writer]: http://askstudio3.pythonanywhere.com
