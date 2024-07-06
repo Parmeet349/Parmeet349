@@ -1,10 +1,10 @@
 ### Hi there, I'm Parmeet Singh 👋
 
-## I'm a Student, Developer, and Entrepreneur!
-- 🔭 I’m currently working on a [Automated Assignment Writer]!
+## I'm a Developer and Entrepreneur!
+- 🔭 I’m currently working on a [Password Manager]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to code and play Snooker & Solving puzzles
 
 ### Connect with me:
@@ -46,9 +46,9 @@
 
 <img align="left" alt="Parmeet's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Parmeet349&show_icons=true&hide_border=true" />
 
-[website]: http://www.geekypajis.blogspot.com
+[website]: http://www.parmeetsingh.me
 [twitter]: https://twitter.com/Parmeet349
 [youtube]: https://www.youtube.com/geekypajis
 [instagram]: https://www.instagram.com/banga.parmeet
 [linkedin]: https://www.linkedin.com/in/bangaparmeet
-[Automated Assignment Writer]: http://askstudio3.pythonanywhere.com
+[Password Manager]: http://askstudio3.pythonanywhere.com](https://github.com/Parmeet349/password-manager-server)
