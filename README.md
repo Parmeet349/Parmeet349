@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+products+across+Mobile+%C2%B7+Web+%C2%B7+Backend+%C2%B7+AI;From+first+idea+to+real+users;Currently+building+Vona+%F0%9F%9A%80&font=Fira+Code&center=true&width=650&height=45&color=61DAFB&vCenter=true&size=22&pause=1800" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+products+across+Mobile+%C2%B7+Web+%C2%B7+Backend+%C2%B7+AI;From+first+idea+to+real+users;Currently+building+Vona+%F0%9F%9A%80&font=Fira+Code&center=true&width=750&height=45&color=61DAFB&vCenter=true&size=22&pause=1800" />
 
 <br/><br/>
 
