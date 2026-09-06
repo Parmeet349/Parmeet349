@@ -262,21 +262,6 @@ Not AI for the sake of AI.
 
 <br/>
 
-## `github`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=parmeet349&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9ca3af&icon_color=61dafb&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=parmeet349&hide_border=true&background=00000000&stroke=ffffff&ring=61dafb&fire=61dafb&currStreakLabel=ffffff" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=parmeet349&bg_color=00000000&color=9ca3af&line=61dafb&point=ffffff&hide_border=true" width="95%"/>
-
-</div>
-
-<br/>
-
 ## `connect`
 
 <div align="center">
